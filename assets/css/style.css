@@ -7,13 +7,13 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* added button styling */
 button{
     background-color: #2a607c;
     border: 0px;
     color: white;
 }
-
+/* removed class selector */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,7 +29,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* updated div to nav selector */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,7 +41,7 @@ nav {
 nav ul {
     list-style-type: none;
 }
-
+/* added margin left for spacing in nav links */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -52,7 +52,7 @@ a {
     text-decoration: none;
     margin-left: 35px;
 }
-
+/* added a underline for nav links */
 a:hover {
     text-decoration: underline;
 }
@@ -96,7 +96,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidated into one class selector */
 .benefits2 {
     margin-bottom: 32px;
     color: #ffffff;
@@ -112,7 +112,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* consolidated into one class selector */
 .submaintitles {
     margin-bottom: 20px;
     padding: 50px;
@@ -130,7 +130,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* added background color for better visual quality */
 .footer {
     padding: 30px;
     clear: both;
