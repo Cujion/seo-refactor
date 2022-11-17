@@ -1,11 +1,24 @@
-# <seo-refactor>
+# seo-refactor
+
+[Link to my project](https://cujion.github.io/seo-refactor/)
+
+## Table of Contents
+- [Description](#description)
+- [Visuals](#visuals)
+- [Installation](#installation)
+- [License](#license)
+
 
 ## Description
-
 This project is a website for search engine optimization and social media marketing. This project helped my understand of basic html formatting along with css styling skills, also allowed me to understand the breakdown of a webpage while identifying dry code and condensing it down into a much smaller and more readable code.
 
-## Installation
+## Visuals
+![Whole webpage visual](./assets/images/full-page-view.png)
+![Abbreviation on hover along with refresh page on click](./assets/images/abbv-tag-refresh-onclick.png)
+![Search navigation tabs on click](./assets/images/search-nav-tabs.png)
+![Scroll to top of page on click](./assets/images/scroll-top-onclick.png)
 
+## Installation
 Open the index.html file in a web browser to display the website. To access the code while in the web browser of google chrome right on the page and click inspect and it will open up the chrome dev tools which will allow you to see the html along with the css code for this webpage. 
 
 ## License
